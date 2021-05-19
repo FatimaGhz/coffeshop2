@@ -363,6 +363,9 @@ section.product3{
         width: 50%;
 
     }
+    .custom-navbar .navbar-toggler {
+        float: left;
+    }
 
 }
 

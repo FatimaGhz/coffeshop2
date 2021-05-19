@@ -1,5 +1,6 @@
-@mixin prosection {
-    margin-top: 100px;
-    text-align: right;
-    
+
+@mixin prosection ($margin-top,$text-align) {
+    margin-top: $margin-top;
+    text-align: $text-align;
+
 }
